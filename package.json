@@ -1,0 +1,22 @@
+{
+  "name": "bill-murray-time",
+  "version": "1.0.0",
+  "description": "This is a pure html project project where we learned how to connect one html file to another, and how to set up different aspects of it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BreeJax/Bill-Murray-TIY.git"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "Bree Alexandra Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BreeJax/Bill-Murray-TIY/issues"
+  },
+  "homepage": "https://github.com/BreeJax/Bill-Murray-TIY#readme"
+}
